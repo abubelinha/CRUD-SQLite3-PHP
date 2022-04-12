@@ -33,7 +33,7 @@ sudo apt-get install php7.3-sqlite
 Step 2 :
 
 Restart Server /Desktop/php$ php -S localhost:8000
-
+<pre>
 [Tue Apr 12 15:29:49 2022] PHP 7.4.3 Development Server (http://localhost:8000) started
 [Tue Apr 12 15:30:13 2022] 127.0.0.1:53288 Accepted
 [Tue Apr 12 15:30:13 2022] 127.0.0.1:53288 [200]: GET /
@@ -75,6 +75,6 @@ Restart Server /Desktop/php$ php -S localhost:8000
 [Tue Apr 12 15:30:41 2022] 127.0.0.1:53310 Closing
 [Tue Apr 12 15:30:41 2022] 127.0.0.1:53314 Closing
 
-
+</pre>
 
 
