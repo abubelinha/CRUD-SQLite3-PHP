@@ -1,5 +1,5 @@
 # CRUD-SQLite3-PHP 
-## (original README.md from [@lwbaqueros](https://github.com/lwbaqueros) original [repo](https://github.com/lwbaqueros/CRUD-SQLite3-PHP)):
+## (original README.md from [@lwbaqueros](https://github.com/lwbaqueros) original [repo](https://github.com/lwbaqueros/CRUD-SQLite3-PHP) 2019.10.22):
 A SQLite3 CRUD with PHP and Bootstrap.
 
 This is an example performed by Basic Programming youtube chanel. 
@@ -19,7 +19,7 @@ Youtube channel:
 
 https://www.youtube.com/channel/UC86y1m_CNOigTV7sirO-T8Q
 
-Youtube turotial:
+Youtube tutorial:
 https://www.youtube.com/watch?v=Scq1wkaUAOo&t=245s
 https://www.youtube.com/watch?v=uMU-IeF7RNs&t=14s
 https://www.youtube.com/watch?v=-FzIubWH0Gw&t=391s
@@ -30,7 +30,7 @@ https://www.youtube.com/watch?v=Dggn0hkFLaY
 ________________
 
 # CRUD-SQLite3-PHP 
-## (modified README.md from [@JupyterJones](https://github.com/JupyterJones) forked [repo](https://github.com/JupyterJones/CRUD-SQLite3-PHP))
+## (modified README.md from [@JupyterJones](https://github.com/JupyterJones) forked [repo](https://github.com/JupyterJones/CRUD-SQLite3-PHP) 2022.04.12)
 A SQLite3 CRUD with PHP and Bootstrap.
 
 This is an example performed by Basic Programming youtube chanel. 
